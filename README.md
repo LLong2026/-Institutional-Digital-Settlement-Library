@@ -97,4 +97,4 @@ Code
     Provenance.md
 Citation
 Long, Leon Calvin II (2026). Institutional Modernization Library — Multi‑Rail Settlement & Governance (Papers I–VII).  
-GitHub Release + Zenodo DOI (to be added after publication).
+
