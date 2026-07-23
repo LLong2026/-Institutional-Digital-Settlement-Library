@@ -1,4 +1,6 @@
 Overview
+Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY‑NC‑ND 4.0)
+This library is released under the CC BY‑NC‑ND 4.0 license.
 The Institutional Modernization Library — Multi‑Rail Settlement & Governance is a curated collection of seven technical papers defining the architectural foundations of next‑generation regulated financial infrastructure. This library consolidates research across backend settlement architecture, canonical identity, provenance anchoring, multi‑rail orchestration, governance envelopes, and rail‑agnostic value movement.
 
 These works form a unified modernization framework for institutional post‑trade systems — enabling deterministic settlement, trustless document permanence, and interoperable multi‑rail fintech operations. The library is intended for financial infrastructure architects, central bank technologists, tokenization platform engineers, and regulatory researchers advancing toward semantically coherent, rail‑agnostic digital settlement ecosystems.
